@@ -1,4 +1,4 @@
- /*Vinicius Miguel 3ºC */
+ /*Lucas Roberto Rodrigues 3ºC */
  
  function criaCartao(categoria, pergunta, resposta){
      let container = document.getElementById('container')
