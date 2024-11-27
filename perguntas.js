@@ -1,4 +1,4 @@
-/*Vinicius Miguel 3ºC */
+/*Lucas Roberto Rodrigues 3ºC */
 
 criaCartao(
     'Programação',
